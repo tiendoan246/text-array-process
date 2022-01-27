@@ -1,0 +1,7 @@
+# Condition should be in format name=data, operator, default CONTAINS
+class={isogram|palindrome|semordnilap}:OPTION
+maxlength=<INT>:MAX
+minlength=<INT>:MIN
+startswith=<STRING>:START
+endswith=<STRING>:END
+containsonly=<CHAR>:CONTAINS
