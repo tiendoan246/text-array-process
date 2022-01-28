@@ -1,4 +1,4 @@
-package com.lumera.constant
+package com.word.constant
 
 import java.util.stream.Stream
 

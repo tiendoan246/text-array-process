@@ -1,4 +1,4 @@
-package com.lumera.exception
+package com.word.exception
 
 class ArgumentEmptyException : Exception {
     val itemError: String? = null

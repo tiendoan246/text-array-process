@@ -1,4 +1,4 @@
-package com.lumera.constant
+package com.word.constant
 
 object ExceptionConstants {
     const val ARGUMENT_REQUIRED_ERROR_MESSAGE = "Search input options [%s] are required"

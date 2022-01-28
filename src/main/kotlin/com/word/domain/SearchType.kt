@@ -1,6 +1,6 @@
-package com.lumera.domain
+package com.word.domain
 
-import com.lumera.constant.Action
+import com.word.constant.Action
 
 class SearchType {
     var dataType: String? = null

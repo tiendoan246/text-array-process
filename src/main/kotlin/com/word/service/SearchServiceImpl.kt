@@ -1,11 +1,11 @@
-package com.lumera.service
+package com.word.service
 
-import com.lumera.constant.Action
-import com.lumera.constant.ExceptionConstants
-import com.lumera.domain.SearchType
-import com.lumera.exception.ArgumentEmptyException
-import com.lumera.exception.InvalidArgumentException
-import com.lumera.exception.OperationIsNotSupportedException
+import com.word.constant.Action
+import com.word.constant.ExceptionConstants
+import com.word.domain.SearchType
+import com.word.exception.ArgumentEmptyException
+import com.word.exception.InvalidArgumentException
+import com.word.exception.OperationIsNotSupportedException
 import java.util.function.Predicate
 import java.util.stream.Collectors
 

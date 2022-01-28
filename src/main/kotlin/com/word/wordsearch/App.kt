@@ -1,12 +1,12 @@
-package com.lumera.wordsearch
+package com.word.wordsearch
 
-import com.lumera.domain.SearchType
-import com.lumera.exception.ArgumentEmptyException
-import com.lumera.exception.InvalidArgumentException
-import com.lumera.exception.OperationIsNotSupportedException
-import com.lumera.service.FileService
-import com.lumera.service.SearchService
-import com.lumera.service.SearchServiceImpl
+import com.word.domain.SearchType
+import com.word.exception.ArgumentEmptyException
+import com.word.exception.InvalidArgumentException
+import com.word.exception.OperationIsNotSupportedException
+import com.word.service.FileService
+import com.word.service.SearchService
+import com.word.service.SearchServiceImpl
 import java.io.IOException
 import java.util.*
 import java.util.function.Consumer

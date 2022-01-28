@@ -1,4 +1,4 @@
-package com.lumera.service
+package com.word.service
 
 class StringUtil {
     companion object {

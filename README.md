@@ -1,8 +1,3 @@
-# The word search
-
-This is a home assignment used during the recruitment process at Lumera. This version is specific to Kotlin developers.
-Your task is to implement a command line tool for lookups of words in a word dictionary file.
-
 ## Searching for matching words
 
 The words search tool searches the file *wordlist.txt* for words matching a word query. The "word query" consist of one
@@ -42,10 +37,6 @@ use input from the command line arguments to search the contents of wordlist.txt
 
 ## General guidelines
 
-The task is expected to be implemented in roughly 2-5 hours. Zip your complete project directory (including build
-scripts, source code and test resources) and send the zip file to us for evaulation. When evaulating the assignment, we
-will look at:
-
 * Patterns and structure of the code.
 * Correctness of the solution.
 * Robustness of the solution (error handling, etc.).
@@ -53,5 +44,3 @@ will look at:
 * Extensibility.
 * Test cases and testability of the code. We do not expect full test coverage, but a few test cases to show how test
   cases are implemented.
-
-Good luck!

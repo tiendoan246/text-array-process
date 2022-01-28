@@ -1,6 +1,6 @@
-package com.lumera.exception
+package com.word.exception
 
-class InvalidArgumentException : Exception {
+class OperationIsNotSupportedException : Exception {
     var itemError: String? = null
         private set
 

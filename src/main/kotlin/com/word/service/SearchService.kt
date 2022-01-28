@@ -1,9 +1,9 @@
-package com.lumera.service
+package com.word.service
 
-import com.lumera.exception.ArgumentEmptyException
-import com.lumera.domain.SearchType
-import com.lumera.exception.InvalidArgumentException
-import com.lumera.exception.OperationIsNotSupportedException
+import com.word.exception.ArgumentEmptyException
+import com.word.domain.SearchType
+import com.word.exception.InvalidArgumentException
+import com.word.exception.OperationIsNotSupportedException
 
 interface SearchService {
     @Throws(InvalidArgumentException::class, ArgumentEmptyException::class, OperationIsNotSupportedException::class)

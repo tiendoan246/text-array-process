@@ -1,8 +1,8 @@
-package com.lumera.service
+package com.word.service
 
-import com.lumera.constant.Action
-import com.lumera.constant.Action.Companion.from
-import com.lumera.domain.SearchType
+import com.word.constant.Action
+import com.word.constant.Action.Companion.from
+import com.word.domain.SearchType
 import java.io.BufferedReader
 import java.io.FileReader
 import java.io.IOException
